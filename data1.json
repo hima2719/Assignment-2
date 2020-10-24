@@ -1,0 +1,17 @@
+{
+	"resumedata": {
+			"Name": "Hima",
+			"Role" : "Mechanical Engineer",
+		"Professional_skills": {
+		"Machine Design": "Competative",
+		"Autocad": "Advance",
+		"Catia": "Intermediate"
+		},
+		"Hobbies": ["Batminton", "T.V"],
+		"Education": {
+			"Institute":["PARUL","VIGNAN","Mira School"],
+			"Course":["Btech","Diploma","SSC"],
+			"Percentage":[85,79,97]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"Resumedata": {
+			"Name": "HimaBindu Yellapu",
+			"Role" : "Electrical-Engineer",
+		"Professional_skills": {
+			"Autocad": "Competative",
+			"SCADA": "Advance",
+			"PLC": "Intermediate"
+		},
+		"Hobbies": ["Listening Music", "Skating","Reading","Internet Surfing"],
+		"Education": {
+			"Institute":["VIET","GONNA","ZEN-SCHOOL"],
+			"Course":["Btech","Diploma","SSC"],
+			"Percentage":[69.31,78.31,84]
+		
+	}
+}
+
+}
